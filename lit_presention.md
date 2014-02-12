@@ -38,7 +38,7 @@ Search Tools
 
 Useful Databases
 =======
-![alt text](/presentation/logos.png)
+![alt text](logos.png)
 * All easy to search have an account system to save searches
 * Many smaller databases may be useful for particular topics
 * Read the abstracts!
@@ -46,7 +46,7 @@ Useful Databases
 
 Reference Managers
 ====
-|Features|![alt text](/presentation/refworks_1.png) |![alt text](/presentation/mendeley_1.png) | ![alt text](/presentation/endnote_1.png)|
+|Features|![alt text](refworks_1.png) |![alt text](mendeley_1.png) | ![alt text](endnote_1.png)|
 |---|---|---|---|
 | Collaborative Sharing  |  No |  Yes | Yes  | 
 | Desktop Client  | No  | Yes  |  Yes |
